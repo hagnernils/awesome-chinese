@@ -2,41 +2,37 @@
 Those resources are often free, but it is well worth it to buy some of them.
 
 ## Learning Hanzi
-[Outliers Course]() is the 
-hacking chinese articles
+[Hacking Chinese articles on characters](https://www.hackingchinese.com/my-best-advice-on-how-to-learn-chinese-characters/) is a great guide on many topics about learning 汉字.
+
+[Outliers Chines Caracters Masterclass](https://www.outlier-linguistics.com/collections/chinese/products/how-to-learn-chinese-characters) a condensed and well-thought course about the structure behind the chinese writing system.
 
 ## Dictionaries
-Pleco is the go-to app. I recommend the professional bundle (worth more than buying any paper dictionary, especially with OCR and handwriting).
+[Pleco](https://www.pleco.com/) is the go-to app. I recommend the professional bundle (worth more than buying any paper dictionary, especially with OCR and handwriting).
 
-The outlier dictionary and Hanzi course gives excellent knowledge of the writing system (paid)
-functional components
+[The outlier dictionary](https://www.outlier-linguistics.com/collections/chinese/products/outlier-dictionary-of-chinese-characters) is a one-of-a kind dictionary that breaks down the components of characters.
 
-For intermediate learners where you will often be confused with similar words, I highly recommend Plecos version of the 现代汉语规范词典
+[现代汉语规范词典](https://store.pleco.com/products.php) for intermediate learners, where its great explanations help with similar words.
 
 ## Flashcards
-Anki - the classic flashcard program for spaced repetition,
+[Anki](https://apps.ankiweb.net/) - the classic flashcard program for spaced repetition,
 with apps for Windows, Mac, Linux, Android (free) and IOS (paid)
 
 ## Grammar
 [Allsetlearning Grammar wiki](https://resources.allsetlearning.com/chinese/grammar/) Simply the best free resource for grammar.
 
 ## Pronounciation
-https://www.sinosplice.com/learn-chinese/pronunciation-of-mandarin-chinese/
-
-They also now have updated paid material at https://store.allsetlearning.com/
+[Sinosplice's pronounciation guide](https://www.sinosplice.com/learn-chinese/pronunciation-of-mandarin-chinese/) is just great. They also now have updated paid material.
 
 ## Graded readers
-I particularly recommend those without pinyin on top of the 汉字, e.g
-the [Mandarin Companion series]().
+I particularly recommend those without pinyin on top of the 汉字, e.g the
 
-Imagine8press (half of the book is pinyin, but still nice story)
+[Mandarin Companion series](https://mandarincompanion.com/) with many great stories adapted to chinese,
+
+[Imagine8press](https://imagin8press.com/) with classics like 西游记, half of the books are pinyin but still very useful.
 
 ## Podcasts
 
-听故事学中文 a nice immersive podcast using only chinese
+[Learning chinese through stories / LCTS / 听故事学中文](https://learningchinesethroughstories.com/) is an immersive podcast using only chinese, telling stories, explaining vocabulary in chinese, with many different levels.
 
-# Misc
-hacking chinese best articles
-(chinese forums new HSK pdf and lists)
-
-hinative and italki are two sites where you can ask for word differences
+## Misc
+[Hinative](https://hinative.com) and [Italki](https://www.italki.com/post/question-103567) are two sites where you can ask for word differences, grammar questions and get native speakers to answer you.
