@@ -4,14 +4,14 @@ Those resources are often free, but it is well worth it to buy some of them.
 ## Learning Hanzi
 [Hacking Chinese articles on characters](https://www.hackingchinese.com/my-best-advice-on-how-to-learn-chinese-characters/) is a great guide on many topics about learning 汉字.
 
-[Outliers Chines Caracters Masterclass](https://www.outlier-linguistics.com/collections/chinese/products/how-to-learn-chinese-characters) a condensed and well-thought course about the structure behind the chinese writing system.
+[Outliers Chines Caracters Masterclass :dollar:](https://www.outlier-linguistics.com/collections/chinese/products/how-to-learn-chinese-characters) a condensed and well-thought course about the structure behind the chinese writing system.
 
 ## Dictionaries
 [Pleco](https://www.pleco.com/) is the go-to app. I recommend the professional bundle (worth more than buying any paper dictionary, especially with OCR and handwriting).
 
-[The outlier dictionary](https://www.outlier-linguistics.com/collections/chinese/products/outlier-dictionary-of-chinese-characters) is a one-of-a kind dictionary that breaks down the components of characters.
+[The outlier dictionary :dollar:](https://www.outlier-linguistics.com/collections/chinese/products/outlier-dictionary-of-chinese-characters) is a one-of-a kind dictionary that breaks down the components of characters.
 
-[现代汉语规范词典](https://store.pleco.com/products.php) for intermediate learners, where its great explanations help with similar words.
+[现代汉语规范词典 :dollar:](https://store.pleco.com/products.php) for intermediate learners, where its great explanations help with similar words.
 
 ## Flashcards
 [Anki](https://apps.ankiweb.net/) - the classic flashcard program for spaced repetition,
@@ -26,9 +26,9 @@ with apps for Windows, Mac, Linux, Android (free) and IOS (paid)
 ## Graded readers
 I particularly recommend those without pinyin on top of the 汉字, e.g the
 
-[Mandarin Companion series](https://mandarincompanion.com/) with many great stories adapted to chinese,
+[Mandarin Companion series :dollar:](https://mandarincompanion.com/) with many great stories adapted to chinese,
 
-[Imagine8press](https://imagin8press.com/) with classics like 西游记, half of the books are pinyin but still very useful.
+[Imagine8press :dollar:](https://imagin8press.com/) with classics like 西游记, half of the books are pinyin but still very useful.
 
 ## Podcasts
 
